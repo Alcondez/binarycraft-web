@@ -1,6 +1,6 @@
 site:
   name: Binary Craft
-  site: 'https://astrowind.vercel.app'
+  site: 'https://binarycraft.dev'
   base: '/'
   trailingSlash: false
 
