@@ -30,8 +30,12 @@ export const footerData = {
   ],
   secondaryLinks: [],
   socialLinks: [
-    { ariaLabel: 'LinkedIn', icon: 'tabler:brand-linkedin', href: '#' },
-    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
+    { ariaLabel: 'LinkedIn', icon: 'tabler:brand-linkedin', href: 'https://www.linkedin.com/company/binary-craft-llc' },
+    {
+      ariaLabel: 'Instagram',
+      icon: 'tabler:brand-instagram',
+      href: 'https://www.instagram.com/binarycraft?igsh=MXhpbHd4aW1mcHBpbg==',
+    },
   ],
   footNote: `
     Binary Craft 2024· All rights reserved.
